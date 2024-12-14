@@ -1,5 +1,6 @@
 ---
 title: Dr. Jekyll und Mr. Hyde
+layout: default
 ---
 
 > An interpretation by chatgpt
